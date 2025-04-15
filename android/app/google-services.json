@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184100539186",
+    "project_id": "budgetly-5cf62",
+    "storage_bucket": "budgetly-5cf62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184100539186:android:d5ebb4af8494a39055e52b",
+        "android_client_info": {
+          "package_name": "com.example.practice_space"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtmd-ZtCyQkk3Qwxu889N1HNQJJXsJW2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
